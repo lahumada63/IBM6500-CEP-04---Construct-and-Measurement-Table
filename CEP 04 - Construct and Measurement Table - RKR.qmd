@@ -1,0 +1,31 @@
+---
+title: "CEP 04 - Construct and Measurement Table"
+
+author:
+  - name: "Luis Ahunada"
+  - name: "Spencer Conway"
+  - name: "Carmen Jimenez Rodriguez"
+  - name: "Leeann Lewis-Waddell"
+  - name: "Georgia Monjarrez"
+
+
+format:
+  html:
+    theme: cosmo
+    toc: false
+    page-layout: full
+    embed-resources: true
+    code-fold: true
+    code-overflow: wrap
+
+execute:
+  echo: false
+  warning: false
+  message: false
+---
+
+## CEP 04 - Construct and Measurement Table Link
+
+<https://docs.google.com/document/d/18pAkUMMlKlEJ6Zw8SHTT-p0Pv_SuHBniApEgzvq0Zuc/edit?usp=sharing>
+
+## Appendix
