@@ -29,3 +29,7 @@ execute:
 <https://docs.google.com/document/d/18pAkUMMlKlEJ6Zw8SHTT-p0Pv_SuHBniApEgzvq0Zuc/edit?usp=sharing>
 
 ## Appendix 
+
+[Git Repo](https://github.com/lahumada63/IBM6500-CEP-04---Construct-and-Measurement-Table)
+
+[Git Page](https://lahumada63.github.io/IBM6500-CEP-04---Construct-and-Measurement-Table/)
